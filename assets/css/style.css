@@ -249,8 +249,7 @@ input[type=submit] {
 }
 
 @media only screen and (max-width: 768px) {
-  .main-section,
-  .sidebar {
+  .main-section {
     max-width: 100%;
   }
 
@@ -275,9 +274,6 @@ input[type=submit] {
     width: 50%;
   }
 
-  .sidebar {
-    margin-bottom: 40px;
-  }
 }
 
 @media only screen and (max-width: 640px) {
